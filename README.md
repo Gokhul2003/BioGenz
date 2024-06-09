@@ -1,4 +1,4 @@
-# Next.js AI powered twitter Bio Generator Using Groq | Shadcn | Llama 3 🔥
+#  AI powered Socail Media Bio Generator Using Groq | Shadcn 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/codebucks27/AI-Powered-Twitter-Bio-Generator?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/AI-Powered-Twitter-Bio-Generator?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
