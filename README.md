@@ -1,3 +1,1 @@
-#  AI powered Socail Media Bio Generator Using Groq | Shadcn 🔥
-
-
+#  AI powered Socail Media Bio Generator  🔥
